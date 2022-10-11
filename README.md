@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### 🍪 About Me
+###  About Me
 - ❤️ I have a passion for Open Source. I love contributing to developer tools
       that I use everyday
 - 🔭 I’m currently working on a Javascript mmorpg game 
