@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Robert Gleason 
+###  Hi, I'm Robert Gleason 👋
 
 <!--
 **robgleason/robgleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
