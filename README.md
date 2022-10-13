@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - ❤️ I have a passion for Open Source. I enjoy contributing to developer tools
       that I use everyday
 - 🔭 I’m currently working on a Javascript mmorpg game <a href="https://etherpets.xyz/">Open Worldz: Ether Pets</a>
+<br>Press 'W' and "S" to move forward and backward.
  <img src="https://etherpets.xyz/nftpic/GithubOpenWorldz.PNG" style="width:200px;">
 - 🌱 I’m currently learning Three.js <br>
 - 💬 Ask me about random bash scripts, OOP, Backend Programming <br>
