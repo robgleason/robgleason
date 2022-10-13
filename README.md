@@ -6,9 +6,11 @@
 Here are some ideas to get you started:
 -->
 ###  About Me
-- ❤️ I have a passion for Open Source. I love contributing to developer tools
+- ❤️ I have a passion for Open Source. I enjoy contributing to developer tools
       that I use everyday
 - 🔭 I’m currently working on a Javascript mmorpg game 
+ <img src="https://etherpets.xyz/nftpic/GithubOpenWorldz.PNG" style="width:200px;">
+
 - 🌱 I’m currently learning Three.js
 - 💬 Ask me about random bash scripts, OOP, Backend Programming
 - 📫 How to reach me: rob.w.gleason At gmail dot com or <a href="https://twitter.com/robert_gleason">Twitter</a>
