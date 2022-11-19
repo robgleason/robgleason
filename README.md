@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 ###  About Me
-- ❤️ I have a passion for Open Source. I enjoy contributing to developer tools
-      that I use everyday
+- ❤️ I have a passion for Open Source. I enjoy offering contributions to Open Source Projects.
 - 🔭 I’m currently working on a Javascript mmorpg game <a href="https://etherpets.xyz/">Open Worldz: Ether Pets</a>
 <br>Press 'W' and "S" to move forward and backward.
  <img src="https://etherpets.xyz/nftpic/GithubOpenWorldz.PNG" style="width:200px;">
