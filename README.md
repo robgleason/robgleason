@@ -12,6 +12,6 @@ Here are some ideas to get you started:
  <img src="https://etherpets.xyz/nftpic/GithubOpenWorldz.PNG" style="width:200px;">
 - 🌱 I’m currently learning Three.js <br>
 - 💬 Ask me about random bash scripts, OOP, Backend Programming <br>
-- 📫 How to reach me: rob.w.gleason At gmail dot com or <a href="https://twitter.com/robert_gleason">Twitter</a> <br>
+- 📫 How to reach me: rob.w.gleason At gmail dot com <br>
 - 🍪 Fun fact: The last video game that I spent hours playing was <a href="https://store.steampowered.com/app/1454400/Cookie_Clicker/">Cookie Clicker</a>
 
