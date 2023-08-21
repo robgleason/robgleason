@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ###  About Me
 - ❤️ Have a passion for Open Source. 
-- 🔭 I’m currently working on Javascript games.
+- 🔭 Currently working on Javascript games.
 - 💬 Ask me about random bash scripts, OOP, Backend Programming <br>
 - 📫 How to reach me: rob.w.gleason At gmail dot com <br>
 - 🍪 Fun fact: The last video game that I spent hours playing was <a href="https://store.steampowered.com/app/1454400/Cookie_Clicker/">Cookie Clicker</a>
